@@ -171,7 +171,12 @@ After spike removal, non-harmonic milling cycles and unstable initial tool usage
 The proposed deep learning approaches demonstrate the effectiveness of AI-based predictive maintenance and tool wear estimation using only motor current signals without additional sensors.
 
 ---
+## Key Results
 
+- Successful tool wear classification using motor current signals
+- Transfer learning improved model generalization
+- Deep learning models demonstrated robust predictive maintenance capability
+  
 ## Usage
 
 The experiments and model development workflows are available in the `notebooks/` directory.
