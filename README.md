@@ -1,3 +1,4 @@
+[![Publication](https://img.shields.io/badge/Publication-Springer-blue)](...)
 # Tool Wear Detection using Deep Learning and Transfer Learning
 
 ## Overview
