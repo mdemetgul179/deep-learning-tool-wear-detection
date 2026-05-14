@@ -78,7 +78,7 @@ The workflow includes converting raw JSON sensor data into structured CSV files 
 
 Spikes and abnormal patterns in the motor current signals are removed before training.
 
-<img width="838" alt="spikes_in_data" src="https://user-images.githubusercontent.com/125495015/219395461-b1694799-22fa-40c6-a0f3-732df94c7738.png">
+<img width="750" alt="spikes_in_data" src="https://user-images.githubusercontent.com/125495015/219395461-b1694799-22fa-40c6-a0f3-732df94c7738.png">
 
 After spike removal, non-harmonic milling cycles and unstable initial tool usage cycles are excluded from the dataset.
 
@@ -94,7 +94,7 @@ After spike removal, non-harmonic milling cycles and unstable initial tool usage
 
 # Deep Learning Approaches
 
-<img width="1000" alt="approaches" src="https://user-images.githubusercontent.com/125495015/219417761-81c79dee-d891-4cf7-a71a-5c680ba6f91b.png">
+<img width="750" alt="approaches" src="https://user-images.githubusercontent.com/125495015/219417761-81c79dee-d891-4cf7-a71a-5c680ba6f91b.png">
 
 ---
 
@@ -120,7 +120,7 @@ After spike removal, non-harmonic milling cycles and unstable initial tool usage
 
 <img width="739" alt="structure_1dCNN_LSTM" src="https://user-images.githubusercontent.com/125495015/219409600-e02a8d8d-8a37-4c13-a851-2a8a5b316642.png">
 
-<img width="1010" alt="loss_accu" src="https://user-images.githubusercontent.com/125495015/219415518-ec2e3aa6-b06d-470a-9a2e-fd2a2b604bda.png">
+<img width="750" alt="loss_accu" src="https://user-images.githubusercontent.com/125495015/219415518-ec2e3aa6-b06d-470a-9a2e-fd2a2b604bda.png">
 
 ---
 
@@ -132,17 +132,17 @@ After spike removal, non-harmonic milling cycles and unstable initial tool usage
 
 ### Threshold Selection
 
-<img width="1074" alt="MAE_for_threshold" src="https://user-images.githubusercontent.com/125495015/219411588-853178f4-aef7-4a7e-9713-b8c0089a5bfa.png">
+<img width="750" alt="MAE_for_threshold" src="https://user-images.githubusercontent.com/125495015/219411588-853178f4-aef7-4a7e-9713-b8c0089a5bfa.png">
 
 ### LSTM Autoencoder Architecture
 
 <img width="590" alt="LSTM_AE_structure" src="https://user-images.githubusercontent.com/125495015/219409266-4544dc76-b441-4692-9d05-3589a00788ec.png">
 
-<img width="995" alt="loss_accu_LSTM_AE" src="https://user-images.githubusercontent.com/125495015/219415877-54e1ec52-4cd3-4d19-b730-47c1ee040947.png">
+<img width="750" alt="loss_accu_LSTM_AE" src="https://user-images.githubusercontent.com/125495015/219415877-54e1ec52-4cd3-4d19-b730-47c1ee040947.png">
 
 ### Confusion Matrix
 
-<img width="973" alt="Confusion_matrix_approach_a_b" src="https://user-images.githubusercontent.com/125495015/219416907-dd562a69-b584-4a09-ad2b-7d2e450be0b9.png">
+<img width="750" alt="Confusion_matrix_approach_a_b" src="https://user-images.githubusercontent.com/125495015/219416907-dd562a69-b584-4a09-ad2b-7d2e450be0b9.png">
 
 ---
 
