@@ -64,7 +64,7 @@ Motor current data was collected from the three axes of a vertical milling machi
 
 Overview of the proposed deep learning approaches and workflows.
 
-<img width="1177" alt="image" src="https://user-images.githubusercontent.com/125495015/219341064-95b283de-06bb-4c83-9ffc-0a9c538e7edc.png">
+<img width="750"  alt="image" src="https://user-images.githubusercontent.com/125495015/219341064-95b283de-06bb-4c83-9ffc-0a9c538e7edc.png">
 
 ---
 
