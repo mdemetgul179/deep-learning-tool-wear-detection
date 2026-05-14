@@ -1,6 +1,6 @@
-[![Publication](https://img.shields.io/badge/Publication-Springer-blue)](...)
-# Tool Wear Detection using Deep Learning and Transfer Learning
 
+# Tool Wear Detection using Deep Learning and Transfer Learning
+[![Publication](https://img.shields.io/badge/Publication-Springer-blue)](https://link.springer.com/article/10.1007/s00170-025-15069-x)
 ## Overview
 
 This repository presents deep learning-based approaches for tool wear detection using motor current signals collected from a vertical milling machine. The project investigates multiple architectures including 1D CNNs, LSTM networks, LSTM Autoencoders, and transfer learning strategies for predictive maintenance applications in smart manufacturing systems.
